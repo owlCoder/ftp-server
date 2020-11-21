@@ -1,7 +1,7 @@
 # Home &bull; FTP Server
 
 FTP 
-сервер је јавно доступан свима на линку [FTP Server](http://owlcoder.byethost6.com/).
+сервер је јавно доступан свима на линку [FTP Server](#).
 
 ## Инсталација софтвера на сервер
 
