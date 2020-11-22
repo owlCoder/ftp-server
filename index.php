@@ -27,3 +27,4 @@ $app = $container->build()->call(AppManager::class);
 
 // Engage!
 $app->run();
+?>
